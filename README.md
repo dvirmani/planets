@@ -1,4 +1,4 @@
 # planets
 Start of Mars colonization project
-Very elaborate comment
+A bit less elaborate comment
 
